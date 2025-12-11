@@ -18,3 +18,5 @@ Imagem do container rodando uma aplicação phyton simples na web pelo ip públi
 Imagem do terraform destroy após a execução
 
 ![Imagem3](imagem3.png)
+
+Trabalho feio por Caio e Rhyan
